@@ -1,7 +1,7 @@
 ## project
 
 - 项目名称: **Web3face**
-  > 描述: Web3face 项目的目标是实现一个可以生成自己的 NFT，可以收取手续费。
+  > 描述: Web3face 项目是一个 WEB3 社交媒体推广系统
 - Sui 钱包地址: **0x61be9edeb2d47ca75ad15573cc50bbc2ae1cd03dfcb09986a7b788ff81f6b436**
   > 描述: 用于接收奖励
 
